@@ -7,9 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+  <a href="https://www.facebook.com/hero.aquino.319" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_yeong_ung__?igsh=MTBrcDEyeXBpM2lqbA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_yeong_ung__?igsh=MTBrcDEyeXBpM2lqbA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </p>
 
 ---
@@ -58,9 +59,9 @@ Hi! I'm **Hero Aquino**. I was born in Pangasinan but grew up in **Bacoor, Cavit
 
 ### 📲 Connect with Me
 
-- 💙 Facebook: [fb.com/YOUR_FACEBOOK_USERNAME](https://www.facebook.com/hero.aquino.319)  
-- 📸 Instagram: [@YOUR_INSTAGRAM_USERNAME](https://www.instagram.com/_yeong_ung__?igsh=MTBrcDEyeXBpM2lqbA==)  
-- 🎧 Spotify: [spotify.com/YOUR_SPOTIFY_ID](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL?si=9Cc-864fTwuOWNoPJlPNIg
+- 💙 Facebook: [MY_FACEBOOK_ACCOUNT](https://www.facebook.com/hero.aquino.319)  
+- 📸 Instagram: [MY_INSTAGRAM_ACCOUNT](https://www.instagram.com/_yeong_ung__?igsh=MTBrcDEyeXBpM2lqbA==)  
+- 🎧 Spotify: [MY FAV SPOTIFY_SONG](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL?si=9Cc-864fTwuOWNoPJlPNIg
 )
 
 ---
