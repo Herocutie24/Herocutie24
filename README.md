@@ -58,9 +58,10 @@ Hi! I'm **Hero Aquino**. I was born in Pangasinan but grew up in **Bacoor, Cavit
 
 ### 📲 Connect with Me
 
-- 💙 Facebook: [fb.com/YOUR_FACEBOOK_USERNAME](https://facebook.com/YOUR_FACEBOOK_USERNAME)  
-- 📸 Instagram: [@YOUR_INSTAGRAM_USERNAME](https://instagram.com/YOUR_INSTAGRAM_USERNAME)  
-- 🎧 Spotify: [spotify.com/YOUR_SPOTIFY_ID](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+- 💙 Facebook: [fb.com/YOUR_FACEBOOK_USERNAME](https://www.facebook.com/hero.aquino.319)  
+- 📸 Instagram: [@YOUR_INSTAGRAM_USERNAME](https://www.instagram.com/_yeong_ung__?igsh=MTBrcDEyeXBpM2lqbA==)  
+- 🎧 Spotify: [spotify.com/YOUR_SPOTIFY_ID](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL?si=9Cc-864fTwuOWNoPJlPNIg
+)
 
 ---
 
