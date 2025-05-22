@@ -1,39 +1,71 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<!-- README.md -->
 
-###
+<h1 align="center">Hey 👋 What's up?</h1>
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&lines=I'm+Hero+Aquino;Software+Enthusiast+%F0%9F%92%BB;Gamer+%F0%9F%8E%AE;Future+Full-Stack+Dev+%F0%9F%92%AA" />
+</p>
 
-###
+<p align="center">
+  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+</p>
 
-<h2 align="left">Hi! I'm Hero Aquino. I was born in Pangasinan but grew up in Cavite, where I currently live in Bacoor. Growing up in Cavite has shaped a lot of who I am today.<br><br>I'm a big fan of watching series and spending time playing online games like Call of Duty: Mobile and Mobile Legends. Another one of my favorite hobbies is playing volleyball — a sport I’ve loved since I started learning it back in Grade 2.<br><br>When it comes to food, nothing beats a good serving of sisig — it’s definitely my favorite!<br><br>That’s a little bit about me. Thanks for getting to know me!</h2>
+---
 
-###
+### 🧑 About Me
 
-<p align="left">✨ Creating bugs since I started exploring the world of programming.<br>📚 I'm currently learning different types of programming languages as part of my IT journey.<br>🎯 Goals: To become a stable and successful man, build a good life with my mom, and someday with my future partner.<br>🎲 Fun fact: I can’t sleep with the lights on — total darkness is a must!</p>
+Hi! I'm **Hero Aquino**. I was born in Pangasinan but grew up in **Bacoor, Cavite** — the place that molded my character.  
+🎬 I love binge-watching series, 🕹️ playing online games like **CODM** and **Mobile Legends**, and 🏐 volleyball has been my passion since Grade 2.  
+🍽️ Favorite food? Definitely **sisig**!
 
-###
+---
 
-<h2 align="left">I code with</h2>
+### 💡 Quick Facts
 
-###
+- ✨ Creating bugs since the beginning of my programming journey  
+- 📚 Currently learning various programming languages  
+- 🎯 **Goals**: To build a successful, stable life with my mom (and future partner ❤️)  
+- 🌑 Fun Fact: I can't sleep with the lights on — I need complete darkness 😴
+
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" />
+</p>
+
+---
+
+### 🎵 Favorite Spotify Tracks
+
+> _*Automatically updates with your liked songs or top tracks*_
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/user/YOUR_SPOTIFY_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 
-###
+---
+
+### 📲 Connect with Me
+
+- 💙 Facebook: [fb.com/YOUR_FACEBOOK_USERNAME](https://facebook.com/YOUR_FACEBOOK_USERNAME)  
+- 📸 Instagram: [@YOUR_INSTAGRAM_USERNAME](https://instagram.com/YOUR_INSTAGRAM_USERNAME)  
+- 🎧 Spotify: [spotify.com/YOUR_SPOTIFY_ID](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+---
+
+> 🔄 Want automation? Hook this up with [GitHub Actions](https://github.com/features/actions) to keep your Spotify widget and profile badges updated!
+
+---
+
+Would you like me to generate the **Markdown version** too (instead of HTML), or help you **automate updates with GitHub Actions** for the Spotify or Instagram display?
